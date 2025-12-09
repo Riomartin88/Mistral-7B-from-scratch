@@ -14,16 +14,6 @@ Modern large language models face a fundamental challenge: standard attention ha
 - **Infinite sequences**: Rolling buffer for continuous processing
 - **Linear scaling**: Memory usage independent of sequence length
 
-## 🔗 Resources & Links
-
-📺 **YouTube Tutorial**: [Modern Attention Optimization: Complete Guide](https://youtu.be/ZFMuPsLWSFU)   
-💻 **Production Examples**: Real-world usage in popular models  
-📈 **Benchmarks**: Comprehensive performance analysis  
-🎯 **Model Implementations**: Mistral, Llama 2 style architectures
-
-
-
-
 ## 🧮 Mathematical Foundations
 
 ### Standard Attention Complexity
