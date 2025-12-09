@@ -1,12 +1,5 @@
 # Attention Optimization in Mistral Sliding Window KV Cache, GQA & Rolling Buffer  from scratch + code
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Stars](https://img.shields.io/github/stars/yourusername/attention-optimization.svg)
-![YouTube](https://img.shields.io/badge/YouTube-Tutorial-red.svg?logo=youtube)
-![Memory](https://img.shields.io/badge/Memory-99%25%20Reduction-green.svg)
-![Speed](https://img.shields.io/badge/Speed-10x%20Faster-blue.svg)
 
 A comprehensive implementation of modern attention optimization techniques: **Sliding Window Attention**, **KV Cache**, **Group Query Attention (GQA)**, and **Rolling Buffer**. These are the core techniques powering efficient LLMs like Mistral, Llama 2, and Code Llama.
 
