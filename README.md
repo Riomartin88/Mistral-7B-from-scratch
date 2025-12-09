@@ -10,13 +10,6 @@
 
 A comprehensive implementation of modern attention optimization techniques: **Sliding Window Attention**, **KV Cache**, **Group Query Attention (GQA)**, and **Rolling Buffer**. These are the core techniques powering efficient LLMs like Mistral, Llama 2, and Code Llama.
 
-
-[![YouTube Tutorial](https://img.shields.io/badge/YouTube-Tutorial-red?logo=youtube)](https://youtu.be/ZFMuPsLWSFU)
-
-**🎥 [Watch the Full Tutorial on YouTube](https://youtu.be/ZFMuPsLWSFU)**
-
-
-
 ## 🎯 Overview
 
 Modern large language models face a fundamental challenge: standard attention has **O(n²)** memory complexity, making long sequences computationally prohibitive. This repository implements the breakthrough techniques that enable **99% memory reduction** and **10x faster generation** while maintaining model quality.
